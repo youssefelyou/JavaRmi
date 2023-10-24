@@ -2,10 +2,14 @@ JAVA RMI -------------------------------->
 
 Machine and Room Example:
 
-Add salle first 
+Add salle first
+
+
 <img width="556" alt="salle screen 1" src="https://github.com/youssefelyou/TPRmi/assets/79792251/b5dfe36a-9f10-4bc8-b2be-caf1b5fb7004">
 
 will be added to list
+
+
 <img width="539" alt="liste salles screen 2" src="https://github.com/youssefelyou/TPRmi/assets/79792251/1f3ed3d1-ddec-4d15-b8b2-c48f55d04ecf">
 
 
